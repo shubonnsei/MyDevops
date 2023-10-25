@@ -6,4 +6,4 @@
 
 | Linux                                             |
 |-------------------------------------------------|
-| [Practice Tasks](MyDevops/linux/Task1.md)
+| [Practice Tasks](MyDevops/Linux/Task1.md)
