@@ -5,4 +5,4 @@
 
 | Task     | Description                                                                     |
 |----------|---------------------------------------------------------------------------------|
-| task_001 | [task_001_give_user_root_permission](MyDevops/Linux/LPIC/LPIC101/Task1)                   |
+| task_001 | [task_001_give_user_root_permission](MyDevops/Linux/LPIC/LPIC101/Task1/README.md)                   |
